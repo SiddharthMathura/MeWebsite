@@ -1,0 +1,8 @@
+
+Introduction:- `mewebsite` is a dynamic website, the motive to create this website is that when
+                 a client demands a personalized website for himself/herself to expand his/her reach 
+                 towards his/her audience and to give them a glimpse about his/her work, 
+                 at the same time wants his/her audience to communicate with him/her.
+
+Created using? :- This site is build using Nodejs, Expressjs, MongoDB, Mongoose, Html/CSS.
+                  Dependencies used such as bootstrap, dotenv, hbs, jquery, validator.
